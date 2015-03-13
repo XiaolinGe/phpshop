@@ -1,0 +1,207 @@
+@charset "utf-8";
+* {
+    font-family: Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    padding: 0;
+    margin: 0 auto;
+    width: 1000px;
+    height: 1560px;
+}
+
+.product tr td {
+    width: 100%;
+}
+
+.product tr td img {
+    width: 100%;
+    height: 80%;
+}
+
+.header {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.login_button {
+    float: left;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    background: #bc50ec
+
+}
+
+.login_text {
+    width: 70px;
+    height: 30px;
+    background: #bc50ec;
+    color: white;
+    text-align: right;
+    padding-left: 15px;
+    padding-right: 5px;
+}
+
+.login_input {
+    width: 200px;
+    height: 30px;
+    border: 2px solid #bc50ec;
+
+}
+
+.main_1 {
+    background: url(../img/main-1-haidi_06.png) left top no-repeat;
+    width: 1000px;
+    height: 220px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+.main_1 p {
+    font: 70px Georgia, "Times New Roman", Times, serif;
+    color: white;
+    text-align: center;
+    width: 500px;
+    margin: 90px auto;
+    position: absolute;
+    top: -50px;
+    left: 115px;
+}
+
+.main_2_p {
+    font: 16px Georgia, "Times New Roman", Times, serif;
+    color: #FFF;
+    padding: 7px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 1;
+}
+
+.main_2_red {
+    height: 35px;
+    width: 1000px;
+    background: #bc50ec;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_purpel {
+    height: 35px;
+    width: 1000px;
+    background: #e251c0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_blue {
+    height: 35px;
+    width: 1000px;
+    background: #0eb1da;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_gray {
+    height: 35px;
+    width: 1000px;
+    background: #4d4d4d;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_grown {
+    height: 35px;
+    width: 1000px;
+    background: #dfc588;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_orange {
+    height: 35px;
+    width: 1000px;
+    background: #f7921e;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_2_green {
+    height: 35px;
+    width: 1000px;
+    background: #51d2b0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_3_front_2:hover .main_2_red {
+    height: 35px;
+    width: 1000px;
+    background: #e251c0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main_3 {
+    width: 1000px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.main_3_front {
+    float: left;
+    margin: 20px 32px;
+}
+
+.main_3_front P {
+    font: 22px Arial, Helvetica, sans-serif bloder;
+    color: #666;
+    width: 20px;
+    padding: 0;
+    margin: 15px 2px 0 6px;
+}
+
+.main_3_front P:hover {
+    color: #000;
+}
+
+.hotList table {
+    bgcolor: #e5e5ec;
+}
+
+.product .laptop_img {
+    float: left;
+    width: 414px;
+    height: 245px;
+    padding: 0;
+    margin: 5px 50px;
+}
+
+.laptop_text {
+    float: left;
+    width: 414px;
+    height: 245px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

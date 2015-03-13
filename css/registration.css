@@ -1,0 +1,72 @@
+
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+h2 {
+    width: 100%;
+    margin: 1em 0 .5em 1.2em;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.form {
+    width: 400px;
+    background-color: #84ccec;
+    text-align: center;
+    padding: 1.25em;
+    border-radius: 5px;
+}
+
+.form .table1 input {
+    margin: 0 0 .4em 0;
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.form textarea {
+    margin: 0 0 .4em 0;
+    width: 100%;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+.form_text {
+    text-align: right;
+
+}
+
+.form_input {
+    width: 250px;
+}
+
+.table2 {
+    padding: 0;
+    margin: 0 auto;
+
+}
+
+.form_radio {
+    float: left;
+    height: 20px;
+}
+
+[type='submit'] {
+    width: 200px;
+    color: white;
+    background-color: #2980b9;
+    font-size: 35px;
+    padding: 8px;
+}
+
+[type='text']:focus {
+    border: 0;
+    color: #2c3e50;
+}

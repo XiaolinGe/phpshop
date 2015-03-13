@@ -1,0 +1,7 @@
+{
+  "name": "vendor/shop",
+  "minimum-stability": "stable",
+  "require": {
+    "php-activerecord/php-activerecord": "dev-master"
+  }
+}
